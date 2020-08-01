@@ -17,7 +17,7 @@ Yes, for now, we are going with COD
 ## Business View
 Dashboard 
 - Orders 
-- Statics
+- Statistics(Day,week,month)
 
 ### Questions
 When the order comes 

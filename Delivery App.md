@@ -20,15 +20,15 @@ Dashboard
 - Statics
 
 ### Questions
-When the order comes, 
-- will the delivery person recieve notification  or should the restartuant assign the delivery person
+When the order comes 
+- Restaturant will assign the order to the delivery person
 
-Restaturant will assign the order to the delivery person 
+
 
 
 ## Delivery Person
 Order 
-    - Status Control
+- Status Control
 
 
 

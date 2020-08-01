@@ -15,6 +15,7 @@ Cash on delivery ??
 ## Business View
 Dashboard 
 - Orders 
+- Statics
 
 ### Questions
 When the order comes, 

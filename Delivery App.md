@@ -1,4 +1,4 @@
-Delviery  app
+Delivery  app
 
 ## Customer View
 - Login 

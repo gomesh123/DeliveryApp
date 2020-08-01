@@ -9,6 +9,7 @@ Delviery  app
 
 ### Questions
 Cash on delivery ?? 
+Yes, for now, we are going with COD
 
 
 
@@ -20,6 +21,8 @@ Dashboard
 ### Questions
 When the order comes, 
 - will the delivery person recieve notification  or should the restartuant assign the delivery person
+
+Restaturant will assign the order to the delivery person 
 
 
 ## Delivery Person

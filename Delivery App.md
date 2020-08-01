@@ -11,6 +11,7 @@ Delivery  app
 Cash on delivery ?? 
 Yes, for now, we are going with COD
 
+- Client also prefers gpay and phonepe
 
 
 ## Business View
